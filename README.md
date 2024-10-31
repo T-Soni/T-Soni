@@ -58,6 +58,9 @@
 
 </div>
 
+   [![An image of @tsoni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=tsoni)](https://holopin.io/@tsoni)
+
+
 ###
 
 <br clear="both">
